@@ -32,3 +32,12 @@
   - Option-implied volatility, sentiment scores (polarity), news volumes in order (left to right)
 
 ![Combined probability](screenshots/combined_probability.png)
+
+
+## Photos 
+- Date: April 3, 2019
+- Presented on [Data Science day at Columbia University](https://guidebook.com/guide/157509/poi/11818051/?pcat=801110)
+
+![Photo of the poster](screenshots/DS_day_poster.jpg)
+
+![Photo of me](screenshots/DS_day_me.jpg)
