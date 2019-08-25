@@ -13,14 +13,14 @@
 ## Screenshots
 
 ### Two Plots on Sentiment Analyses
-#### 1)Sub-topic: F/X Market
+#### 1) Sub-topic: F/X Market
 - **Aggregation frequency**: Weekly
 - **Aggregation method**: Proportion of positive news
 - This sub-topic was manually identified after applying *topic modeling*
 
 ![FX Market](screenshots/Sentiment_FX_market_positives.png)
 
-#### 2)Sub-topic: Global Financial Market
+#### 2) Sub-topic: Global Financial Market
 - **Aggregation frequency**: Weekly
 - **Aggregation method**: Proportion of positive news
 
