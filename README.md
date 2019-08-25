@@ -1,4 +1,4 @@
-# Dashborad
+# Dashborad for Geopolitical Event Probabilities
 #### Visualizing a research project on predicting the GBPUSD rate, supervised by [Eugene Neduv](https://datascience.columbia.edu/eugene-neduv)
 - Features are *sentiment scores* and volumes in news articles, and option-implied volatility.
   - *sentiment scores* is defined as a normalized number of news sentiment.
