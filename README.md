@@ -27,7 +27,8 @@
 ![Stock Market](screenshots/Sentiment_financial_markets_positives.png)
 
 ### A Plot on Combined Probability
-- Three features are plotted at the bottom
+- Top: combined probability function with sliding bars for various weights applied to this function
+- Bottom: three features are plotted
   - Option-implied volatility, sentiment scores (polarity), news volumes in order (left to right)
 
 ![Combined probability](screenshots/combined_probability.png)
