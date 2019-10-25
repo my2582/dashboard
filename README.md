@@ -8,6 +8,7 @@
 #### My responsibilities include
 - writing this dashboard from the scratch.
 - consolidating and verifying existing works.
+- writing a prediction model using XGBoost
 
 
 ## Screenshots
@@ -32,6 +33,15 @@
   - Option-implied volatility, sentiment scores (polarity), news volumes in order (left to right)
 
 ![Combined probability](screenshots/combined_probability.png)
+
+
+### Predicting a direction of GBPUSD rates
+- Accuracy: 0.58
+- Feature importances: 3 came from non-traditional features, 1 came from traditonal feature, option-implied volatility
+  - News counts(Most contributed to prediction), Subjectivity (3rd), Positive polarity(4th)
+  - Option-implied volatility (2nd)
+
+![Feature Importances](screenshots/feature_importances.png)
 
 
 ## Photos 
